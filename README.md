@@ -7,3 +7,6 @@ Automation built using UI path to send an email regarding incoming hackathons by
 3. Creates a notepad file storing relevant details
 4. Picks up top 10 entries from the list
 5. Sends an email regarding the incoming hackathons to listed ids
+
+# Made with
+UI path
